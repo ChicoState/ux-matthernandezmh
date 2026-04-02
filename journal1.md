@@ -41,7 +41,7 @@ When I click “Move,” a four-way arrow icon appears next to the portlet.
 ![Moving](assets/9Moving.png)
 
 This is another example of an affordance because the arrow clearly suggests that I can drag the portlet around. When I actually start dragging it, I see a highlighted area showing where it will be placed if I drop it.
-![Removing](assets/10Rmoving.png)
+![Removing](assets/10Removing.png)
 
 That feedback is helpful and makes the interaction feel more intuitive.
 
