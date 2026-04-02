@@ -45,6 +45,6 @@ This is another example of an affordance because the arrow clearly suggests that
 
 That feedback is helpful and makes the interaction feel more intuitive.
 
-Finally, I try removing a portlet. I go to another one, open the dropdown, and click remove. A popup appears asking me to confirm that I want to remove it (insert screenshot of confirmation popup here). This makes sense because it prevents me from accidentally deleting something.
+Finally, I try removing a portlet. I go to another one, open the dropdown, and click remove. A popup appears asking me to confirm that I want to remove it. This makes sense because it prevents me from accidentally deleting something.
 
 Overall, the actual actions like moving and removing portlets worked fine once I found them, but getting there was the confusing part. The biggest issue was that the “Customize” tab didn’t match what I expected it to do based on my mental model, and I had to rely on a help article just to figure out something that feels like it should be simple. The affordances within the actual dashboard, like the drag arrows and highlight areas, were clear and helpful, but they were kind of hidden behind menus that weren’t obvious at first.
