@@ -9,7 +9,7 @@ I start on the Chico State homepage where I see the “Sign In” button in the 
 This was straightforward because it matches my mental model, which is basically the expectation I have in my head based on using other websites. Most sites put login buttons in the top right, so I didn’t have to think about where to go.
 
 After clicking it, I’m taken to the login page where I see two rectangles for my username and password.
-![Sign In](assets/2Sign_Page.png)
+![Sign In](assets/2Sign_In.png)
 
 These boxes are a good example of an affordance, which just means the design makes it obvious what I’m supposed to do. The boxes look like something I should type into, so I do. No confusion here.
 
